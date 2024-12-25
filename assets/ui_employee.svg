@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="11in"
+   height="8.5in"
+   viewBox="0 0 1056 816"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="ui_employee.svg"
+   inkscape:export-filename="ui_employee.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     inkscape:zoom="0.90397174"
+     inkscape:cx="359.52451"
+     inkscape:cy="373.90549"
+     inkscape:window-width="1368"
+     inkscape:window-height="959"
+     inkscape:window-x="39"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer6"
+     showguides="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Screens"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="UI 1"
+       inkscape:highlight-color="#59eb48"
+       sodipodi:insensitive="true">
+      <g
+         inkscape:groupmode="layer"
+         id="layer3"
+         inkscape:label="Map"
+         inkscape:highlight-color="#ea08fa"
+         sodipodi:insensitive="true">
+        <rect
+           style="display:inline;fill:#b3ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           id="rect7"
+           width="263.58606"
+           height="277.21191"
+           x="209.63217"
+           y="100.09561"
+           inkscape:label="rect2" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#e6e6e6;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 212.03149,250.58267 c 0,0 4.58943,92.24747 36.25647,95.91901 31.66704,3.67154 174.3982,5.96626 190.46119,11.01463 16.06299,5.04836 34.4207,6.88413 34.4207,6.88413"
+           id="path15" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#e6e6e6;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+           d="M 215.24409,176.23397 401.11585,103.26209"
+           id="path14" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#e6e6e6;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+           d="M 324.77991,99.353522 C 452.48281,180.82801 458.9216,281.73676 458.9216,281.73676"
+           id="path13" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#e6e6e6;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+           d="M 232.80745,104.39673 365.19479,372.90361"
+           id="path12" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#e6e6e6;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+           d="M 215.00504,278.55036 471.11417,172.1313"
+           id="path11" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#808080;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 248.7469,103.72103 c -12.85039,40.8459 -0.91788,73.43082 -0.91788,73.43082 l 25.24184,57.82677 c 0,0 4.13049,16.98088 0.45894,39.01013 -3.67154,22.02924 -30.74915,103.26209 -30.74915,103.26209"
+           id="path7" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#808080;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 368.98987,101.42632 c 0,0 -23.86502,21.5703 -19.73453,56.90889 4.13048,35.33858 21.5703,57.36782 21.5703,57.36782 0,0 32.58493,34.4207 33.96176,64.25197 1.37682,29.83127 2.29471,95.91901 2.29471,95.91901"
+           id="path8" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#808080;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 268.0225,307.03261 c 0,0 86.74015,14.68617 113.35883,10.55568 26.61867,-4.13048 95.46006,-50.02474 95.46006,-50.02474"
+           id="path9" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#808080;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+           d="M 470.87513,134.01125 C 381.84026,156.95838 212.03149,246.45219 212.03149,246.45219"
+           id="path10" />
+        <circle
+           style="display:inline;fill:#0030fd;fill-opacity:1;fill-rule:nonzero;stroke:#fbfbfb;stroke-width:4.8;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           id="path5-6"
+           cx="338.0191"
+           cy="206.76265"
+           r="9.6000004"
+           inkscape:label="Current Location" />
+      </g>
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 210.28989,105.14495 V 375.14679"
+         id="path2" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 101.42632,134.47019 H 211.57255"
+         id="path3" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 96,187.2 H 211.2"
+         id="path4" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 96,235.0072 H 211.2"
+         id="path5" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 96,283.2 H 211.2"
+         id="path6" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 96,331.2 H 211.2"
+         id="path6-4" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+         x="125.75028"
+         y="123.45556"
+         id="text10"><tspan
+           sodipodi:role="line"
+           id="tspan10"
+           x="125.75028"
+           y="123.45556">Search</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+         x="115.1946"
+         y="166.59616"
+         id="text15"><tspan
+           sodipodi:role="line"
+           x="115.1946"
+           y="166.59616"
+           id="tspan18">Place 1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+         x="115.1946"
+         y="217.53882"
+         id="text16"><tspan
+           sodipodi:role="line"
+           id="tspan16"
+           x="115.1946"
+           y="217.53882">Place 2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+         x="112.89988"
+         y="265.72778"
+         id="text17"><tspan
+           sodipodi:role="line"
+           id="tspan17"
+           x="112.89988"
+           y="265.72778">Place 3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+         x="113.81778"
+         y="315.29358"
+         id="text19"><tspan
+           sodipodi:role="line"
+           id="tspan19"
+           x="113.81778"
+           y="315.29358">Place 4</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+         x="115.65354"
+         y="361.18784"
+         id="text20"><tspan
+           sodipodi:role="line"
+           id="tspan20"
+           x="115.65354"
+           y="361.18784">Place 5</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="UI 2"
+       inkscape:highlight-color="#484aeb"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 690.28989,105.6 V 375.60184"
+         id="path2-2" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 582.34421,144.56304 H 692.49044"
+         id="path3-6" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:10.0259;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect24"
+         width="105.17407"
+         height="95.574074"
+         x="710.61298"
+         y="129.81297" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:10.0259;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect24-1"
+         width="105.17407"
+         height="95.574074"
+         x="830.61298"
+         y="129.81297" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:9.984;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect24-9"
+         width="105.17407"
+         height="95.574074"
+         x="710.59198"
+         y="245.01297" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:10.026;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect24-96"
+         width="105.17403"
+         height="95.574081"
+         x="830.61298"
+         y="245.01297" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+         x="605.80426"
+         y="128.045"
+         id="text21"><tspan
+           sodipodi:role="line"
+           id="tspan21"
+           x="605.80426"
+           y="128.045">Place 1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+         x="593.41284"
+         y="178.98763"
+         id="text22"><tspan
+           sodipodi:role="line"
+           id="tspan22"
+           x="593.41284"
+           y="178.98763">Infomation</tspan><tspan
+           sodipodi:role="line"
+           x="593.41284"
+           y="198.98763"
+           id="tspan23">About</tspan><tspan
+           sodipodi:role="line"
+           x="593.41284"
+           y="218.98763"
+           id="tspan24">Place 1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+         x="840.46906"
+         y="163.45927"
+         id="text25-1"><tspan
+           sodipodi:role="line"
+           id="tspan25-5"
+           x="840.46906"
+           y="163.45927">Route 2</tspan><tspan
+           sodipodi:role="line"
+           x="840.46906"
+           y="183.45927"
+           id="tspan26-3">To</tspan><tspan
+           sodipodi:role="line"
+           x="840.46906"
+           y="203.45927"
+           id="tspan29-5">Enternce 1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+         x="719.96289"
+         y="164.71976"
+         id="text25-1-7"><tspan
+           sodipodi:role="line"
+           id="tspan25-5-21"
+           x="719.96289"
+           y="164.71976">Route 1</tspan><tspan
+           sodipodi:role="line"
+           x="719.96289"
+           y="184.71976"
+           id="tspan26-3-8">To</tspan><tspan
+           sodipodi:role="line"
+           x="719.96289"
+           y="204.71976"
+           id="tspan29-5-1">Enternce 1</tspan><tspan
+           sodipodi:role="line"
+           x="719.96289"
+           y="224.71976"
+           id="tspan31" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+         x="720.00897"
+         y="276.98685"
+         id="text25-2"><tspan
+           sodipodi:role="line"
+           id="tspan25-6"
+           x="720.00897"
+           y="276.98685">Route 1</tspan><tspan
+           sodipodi:role="line"
+           x="720.00897"
+           y="296.98685"
+           id="tspan26-1">To</tspan><tspan
+           sodipodi:role="line"
+           x="720.00897"
+           y="316.98685"
+           id="tspan29-0">Enternce 2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+         x="839.93811"
+         y="277.98044"
+         id="text25-1-8"><tspan
+           sodipodi:role="line"
+           id="tspan25-5-2"
+           x="839.93811"
+           y="277.98044">Route 2</tspan><tspan
+           sodipodi:role="line"
+           x="839.93811"
+           y="297.98044"
+           id="tspan26-3-1">To</tspan><tspan
+           sodipodi:role="line"
+           x="839.93811"
+           y="317.98044"
+           id="tspan29-5-9">Enternce 2</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer5"
+       inkscape:label="UI 3"
+       inkscape:highlight-color="#11f1d6"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 210.336,441.6 V 711.60184"
+         id="path2-3" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 101.2756,479.38943 H 211.42183"
+         id="path3-6-5" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:9.984;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect36"
+         width="192"
+         height="115.2"
+         x="247.37007"
+         y="460.77838" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+         x="125.01957"
+         y="460.95267"
+         id="text21-8"><tspan
+           sodipodi:role="line"
+           id="tspan21-7"
+           x="125.01957"
+           y="460.95267">Place 1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.6;stroke-linejoin:round;stroke-dasharray:none"
+         x="112.62815"
+         y="511.89529"
+         id="text22-4"><tspan
+           sodipodi:role="line"
+           id="tspan22-4"
+           x="112.62815"
+           y="511.89529">Infomation</tspan><tspan
+           sodipodi:role="line"
+           x="112.62815"
+           y="531.89526"
+           id="tspan23-6">About</tspan><tspan
+           sodipodi:role="line"
+           x="112.62815"
+           y="551.89526"
+           id="tspan24-3">Place 1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, ';white-space:pre;inline-size:190.443;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.984;stroke-linejoin:round;stroke-dasharray:none"
+         x="257.92575"
+         y="607.64008"
+         id="text32"
+         transform="translate(-11.014623,6.4251968)"><tspan
+           x="257.92575"
+           y="607.64008"
+           id="tspan6">Infomation About </tspan><tspan
+           x="257.92575"
+           y="627.64007"
+           id="tspan7">Route 1 To Enterence 1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.984;stroke-linejoin:round;stroke-dasharray:none"
+         x="279.49606"
+         y="502.08322"
+         id="text37"><tspan
+           sodipodi:role="line"
+           x="279.49606"
+           y="502.08322"
+           id="tspan38">Map of Place 1</tspan><tspan
+           sodipodi:role="line"
+           x="279.49606"
+           y="522.08325"
+           id="tspan40">With Main Route</tspan><tspan
+           sodipodi:role="line"
+           x="279.49606"
+           y="542.08319"
+           id="tspan41">To Enterence 1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.984;stroke-linejoin:round;stroke-dasharray:none"
+         x="253.7953"
+         y="668.22046"
+         id="text42"><tspan
+           sodipodi:role="line"
+           x="253.7953"
+           y="668.22046"
+           id="tspan46">Actions for the route</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.984;stroke-linejoin:round;stroke-dasharray:none"
+         x="233.60179"
+         y="693.92126"
+         id="text47"><tspan
+           sodipodi:role="line"
+           id="tspan47"
+           x="233.60179"
+           y="693.92126">Edit</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.984;stroke-linejoin:round;stroke-dasharray:none"
+         x="289.13388"
+         y="694.83917"
+         id="text48"><tspan
+           sodipodi:role="line"
+           x="289.13388"
+           y="694.83917"
+           id="tspan49">Hide</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.984;stroke-linejoin:round;stroke-dasharray:none"
+         x="360.72888"
+         y="693.46234"
+         id="text50"><tspan
+           sodipodi:role="line"
+           id="tspan50"
+           x="360.72888"
+           y="693.46234">Rank</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.984;stroke-linejoin:round;stroke-dasharray:none"
+         x="425.43982"
+         y="693.46228"
+         id="text51"><tspan
+           sodipodi:role="line"
+           id="tspan51"
+           x="425.43982"
+           y="693.46228">Etc</tspan></text>
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:10.5134;stroke-linejoin:round"
+       id="rect1"
+       width="373.48657"
+       height="277.48657"
+       x="101.25671"
+       y="101.25671" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:10.5134;stroke-linejoin:round"
+       id="rect1-5"
+       width="373.48657"
+       height="277.48657"
+       x="581.25671"
+       y="101.2567" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:10.5134;stroke-linejoin:round"
+       id="rect1-4"
+       width="373.48657"
+       height="277.48657"
+       x="101.2567"
+       y="437.25671" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="InfoText"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, ';white-space:pre;inline-size:395.352;display:inline;fill:#000000;stroke-width:9.984;stroke-linejoin:round"
+       x="575.052"
+       y="453.03192"
+       id="text3"><tspan
+         x="575.052"
+         y="453.03192"
+         id="tspan8">How would an employee would access mapping </tspan><tspan
+         x="575.052"
+         y="473.03192"
+         id="tspan9">infomation if it is stored in the cloud.
+</tspan><tspan
+         x="575.052"
+         y="493.03192"
+         id="tspan11">
+</tspan><tspan
+         x="575.052"
+         y="513.03192"
+         id="tspan12">This allows control for which maps to show or </tspan><tspan
+         x="575.052"
+         y="533.03192"
+         id="tspan13">ignore for some problem stated in the Affinity </tspan><tspan
+         x="575.052"
+         y="553.03192"
+         id="tspan14">Diagram.
+</tspan><tspan
+         x="575.052"
+         y="573.03192"
+         id="tspan15">
+</tspan><tspan
+         x="575.052"
+         y="593.03192"
+         id="tspan32">Some problems are still not solved like privacy if </tspan><tspan
+         x="575.052"
+         y="613.03192"
+         id="tspan33">the destionation is somebody's home.</tspan></text>
+  </g>
+</svg>
