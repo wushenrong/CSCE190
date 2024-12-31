@@ -1,77 +1,83 @@
+/*
+ * SPDX-FileCopyrightText: 2024 Samuel Wu
+ *
+ * SPDX-License-Identifier: 0BSD
+ */
+
 body {
-    background-color: beige;
-    font-family: "Courier New", Courier, monospace;
+  background-color: beige;
+  font-family: "Courier New", Courier, monospace;
 }
 
 h1 {
-    text-align: center;
-    color: indigo;
+  text-align: center;
+  color: indigo;
 }
 
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .about {
-    display: flex;
-    flex-wrap: wrap;
-    margin: 0 100px;
-    justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 100px;
+  justify-content: center;
 }
 
 .about p {
-    width: 50%;
-    text-align: center;
-    margin: auto;
-    line-height: 125%;
+  width: 50%;
+  text-align: center;
+  margin: auto;
+  line-height: 125%;
 }
 
 .about img {
-    width: 150px;
-    height: 200px;
-    border-radius: 25%;
-    border: 2px solid;
+  width: 150px;
+  height: 200px;
+  border-radius: 25%;
+  border: 2px solid;
 }
 
 .skills {
-    background-color: white;
-    padding: 10px;
-    border-radius: 10%;
+  background-color: white;
+  padding: 10px;
+  border-radius: 10%;
 }
 
 .projects {
-    display: flex;
-    flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .project {
-    width: 30%;
-    margin: 10px;
-    padding: 20px 10px;
-    background: white;
-    border-radius: 10%;
+  width: 30%;
+  margin: 10px;
+  padding: 20px 10px;
+  background: white;
+  border-radius: 10%;
 }
 
 .project h3 {
-    text-align: center;
+  text-align: center;
 }
 
 .project p {
-    text-align: center;
-    margin: 20px;
+  text-align: center;
+  margin: 20px;
 }
 
 .project img {
-    width: 325px;
-    height: 200px;
-    margin: auto;
-    border: 2px solid;
-    padding: 5px;
-    display: block;
+  width: 325px;
+  height: 200px;
+  margin: auto;
+  border: 2px solid;
+  padding: 5px;
+  display: block;
 }
 
 .contact img {
-    width: 268px;
-    height: 26px;
-    display: block;
+  width: 268px;
+  height: 26px;
+  display: block;
 }
