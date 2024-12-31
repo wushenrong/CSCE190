@@ -4,6 +4,7 @@
 
 exclude:
   - assets
+  - LICENSE
   - LICENSES
   - README.md
   - REUSE.toml
