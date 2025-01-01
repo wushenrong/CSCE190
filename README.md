@@ -6,7 +6,6 @@ also includes my example resume.
 ## License
 
 Source code are licensed under the BSD Zero Clause License and content are
-licensed under [CC BY-NC-SA 4.0][cc-by-nc-sa-4.0] using [SPDX](https://spdx.dev)
-expressions.
+licensed under [CC BY-NC-SA 4.0] using [SPDX](https://spdx.dev) expressions.
 
-[cc-by-nc-sa-4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+[CC BY-NC-SA 4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/
